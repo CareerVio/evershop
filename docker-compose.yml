@@ -27,9 +27,9 @@ services:
     volumes:
       - /backup/postgresql/data:/var/lib/postgresql/data
     environment:
-      POSTGRES_PASSWORD: postgres
-      POSTGRES_USER: postgres
-      POSTGRES_DB: postgres
+      POSTGRES_PASSWORD: Ooaakk00!
+      POSTGRES_USER: root
+      POSTGRES_DB: evershop
     ports:
       - "5432:5432"
     networks:
