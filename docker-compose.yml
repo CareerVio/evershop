@@ -14,6 +14,9 @@ services:
       - myevershop
     depends_on:
       - database
+    volumes:
+      - backup/media:/app/media
+      - ./config:/app/config
     ports:
       - 4200:3000
   
