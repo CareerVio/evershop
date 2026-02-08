@@ -1,0 +1,61 @@
+Total, ยอดรวมทั้งหมด
+Order, รายการสั่งซื้อ
+Sku, SKU
+Continue to shipping, ดำเนินการต่อเพื่อเลือกการจัดส่ง
+Continue shopping, เลือกซื้อสินค้าต่อ
+Continue Shopping, เลือกซื้อสินค้าต่อ
+CONTINUE SHOPPING, เลือกซื้อสินค้าต่อ
+Shopping cart, ตะกร้าสินค้า
+Product, สินค้า
+Price, ราคา
+Quantity, จำนวน
+Remove, ลบออก
+Qty, จำนวน
+Sub total, ยอดรวม
+Discount($coupon), ส่วนลด($cupón)
+Order summary, สรุปรายการสั่งซื้อ
+Taxes and shipping calculated at checkout, ภาษีและค่าจัดส่งจะคำนวณในหน้าชำระเงิน
+CHECKOUT, ชำระเงิน
+Change, เปลี่ยน
+Payment Method, วิธีการชำระเงิน
+Shipping Address, ที่อยู่สำหรับการจัดส่ง
+Shipping Method, วิธีการจัดส่ง
+No payment methods available, ไม่มีวิธีการชำระเงินที่พร้อมใช้งาน
+Place Order, สั่งซื้อสินค้า
+My billing address is same as shipping address, ที่อยู่สำหรับใบเสร็จเป็นที่เดียวกับที่อยู่จัดส่ง
+$count items, สินค้า $count รายการ
+Discount, ส่วนลด
+Shipping, ค่าจัดส่ง
+No tax, ไม่มีภาษี
+Tax, ภาษี
+Sorry, there is no available method for your address, ขออภัย ไม่พบวิธีการจัดส่งสำหรับที่อยู่ของคุณ
+Please enter a shipping address in order to see shipping quotes, กรุณากรอกที่อยู่จัดส่งเพื่อตรวจสอบค่าธรรมเนียมการจัดส่ง
+Continue to payment, ดำเนินการต่อเพื่อชำระเงิน
+No payment method available, ไม่มีวิธีการชำระเงินที่พร้อมใช้งาน
+Ship to, ส่งไปที่
+Shipment, การจัดส่ง
+Thank you $name!, ขอบคุณคุณ $name!
+Contact information, ข้อมูลการติดต่อ
+Order #$orderNumber, รายการสั่งซื้อ #$orderNumber
+ADD TO CART, เพิ่มลงตะกร้า
+Please select variant options, กรุณาเลือกตัวเลือกสินค้า
+VIEW CART ($count), ดูตะกร้าสินค้า ($count)
+JUST ADDED TO YOUR CART, เพิ่มสินค้าลงตะกร้าแล้ว
+Promotion code?, มีรหัสโปรโมชันหรือไม่?
+Enter coupon code, กรอกรหัสคูปอง
+Apply, ใช้รหัส
+Your cart is empty!, ตะกร้าสินค้าของคุณว่างเปล่า!
+Full name, ชื่อ-นามสกุล
+Telephone, เบอร์โทรศัพท์
+Address, ที่อยู่
+City, เมือง / อำเภอ
+Country, ประเทศ
+Postcode, รหัสไปรษณีย์
+Inclusive of tax, รวมภาษีแล้ว
+Full name is required, กรุณากรอกชื่อ-นามสกุล
+Telephone is required, กรุณากรอกเบอร์โทรศัพท์
+Address is required, กรุณากรอกที่อยู่
+City is required, กรุณากรอกเมือง / อำเภอ
+Country is required, กรุณาเลือกประเทศ
+Postcode is required, กรุณากรอกรหัสไปรษณีย์
+Contact, ติดต่อ
