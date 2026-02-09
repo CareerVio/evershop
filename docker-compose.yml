@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   evershop:
-    image: evershop/evershop:latest
+    build: .
     container_name: evershop-app
     restart: unless-stopped
     depends_on:
