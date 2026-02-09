@@ -30,8 +30,7 @@ Discount, ส่วนลด
 Shipping, ค่าจัดส่ง
 No tax, ไม่มีภาษี
 Tax, ภาษี
-
-Sorry, there is no available method for your address, ขออภัย ไม่พบวิธีการจัดส่งสำหรับที่อยู่ของคุณ
+Sorry, there is no available method for your address, ขออภัย, ไม่พบวิธีการจัดส่งสำหรับที่อยู่ของคุณ
 Please enter a shipping address in order to see shipping quotes, กรุณากรอกที่อยู่จัดส่งเพื่อตรวจสอบค่าธรรมเนียมการจัดส่ง
 Continue to payment, ดำเนินการต่อเพื่อชำระเงิน
 No payment method available, ไม่มีวิธีการชำระเงินที่พร้อมใช้งาน
@@ -42,9 +41,10 @@ Contact information, ข้อมูลการติดต่อ
 Order #$orderNumber, รายการสั่งซื้อ #$orderNumber
 ADD TO CART, เพิ่มลงตะกร้า
 Add to cart, เพิ่มลงตะกร้า
+Add to Cart, เพิ่มลงตะกร้า
 Please select variant options, กรุณาเลือกตัวเลือกสินค้า
 VIEW CART ($count), ดูตะกร้าสินค้า ($count)
-View Cart ($count), ดูตะกร้าสินค้า ($count)
+View Cart (${totalQty}), ดูตะกร้าสินค้า (${totalQty})
 JUST ADDED TO YOUR CART, เพิ่มสินค้าลงตะกร้าแล้ว
 Promotion code?, มีรหัสโปรโมชันหรือไม่?
 Enter coupon code, กรอกรหัสคูปอง
@@ -53,10 +53,11 @@ Your cart is empty!, ตะกร้าสินค้าของคุณว�
 Full name, ชื่อ-นามสกุล
 Telephone, เบอร์โทรศัพท์
 Address, ที่อยู่
+Address 2, ที่อยู่เพิ่มเติม (ถ้ามี)
 City, เมือง / อำเภอ
 Country, ประเทศ
 Postcode, รหัสไปรษณีย์
-Inclusive of tax ${taxAmount}, รวมภาษีแล้ว ${taxAmount}
+Inclusive of tax ${totalTaxAmount}, รวมภาษีแล้ว ${totalTaxAmount}
 Full name is required, กรุณากรอกชื่อ-นามสกุล
 Telephone is required, กรุณากรอกเบอร์โทรศัพท์
 Address is required, กรุณากรอกที่อยู่
@@ -70,7 +71,7 @@ Payment Information,ข้อมูลการชำระเงิน
 Pick a payment method,เลือกวิธีการชำระเงิน
 Same as shipping address,เช่นเดียวกับที่อยู่ในการจัดส่ง
 Use a different billing address,ใช้อีกที่อยู่
-Cash on Delivery,ชำระเงินปลายทาง
+Cash On Delivery,ชำระเงินปลายทาง
 Credit card,ชำระเงินด้วยบัตรเครดิต
 Select a payment method,เลือกวิธีการชำระเงิน
 Checkout success,ชำระเงินสำเร็จ
