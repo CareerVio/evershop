@@ -17,8 +17,7 @@ RUN npm install
 # build evershop
 RUN npm run build
 
-ENV PORT=3000
-EXPOSE 3000
+EXPOSE 80
 
 USER node
 
