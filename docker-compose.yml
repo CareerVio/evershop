@@ -14,12 +14,12 @@ services:
       DB_NAME: evershop
       DB_USER: root
       DB_PASSWORD: Ooaakk00!
-      BASE_URL: https://fleet.sehub-thailand.com
-      ADMIN_BASE_URL: https://fleet.sehub-thailand.com/admin
     ports:
       - "4200:3000"
     volumes:
       - /backup/media:/app/media
+      - ./config:/app/config
+      - ./translations:/app/translations
     networks:
       - myevershop
   #The postgres database: 

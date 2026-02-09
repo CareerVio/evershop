@@ -3,6 +3,7 @@
     "language": "th",
     "timezone": "Asia/Bangkok",
     "currency": "THB",
-    "weightUnit": "kg"
+    "weightUnit": "kg",
+    "homeUrl": "https://fleet.sehub-thailand.com"
   }
 }
