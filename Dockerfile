@@ -1,9 +1,9 @@
-FROM node:18-alpine
+FROM node:20-bookworm
 
 WORKDIR /app
 
-# copy package files ก่อนเพื่อ cache
-COPY package.json package-lock.json ./
+# copy package files ก่อน
+COPY package.json  ./
 
 # copy source code
 COPY . .
@@ -12,7 +12,7 @@ COPY . .
 RUN mkdir -p media public \
   && chown -R node:node /app
 
-RUN npm ci --production
+RUN npm install
 
 # build evershop
 RUN npm run build
