@@ -19,7 +19,6 @@ services:
     volumes:
       - /backup/media:/app/media
       - ./config:/app/config
-      - ./translations:/app/translations
     networks:
       - myevershop
   #The postgres database: 
