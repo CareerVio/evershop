@@ -4,7 +4,7 @@
     "timezone": "Asia/Bangkok",
     "currency": "THB",
     "weightUnit": "kg",
-    "homeUrl": "https://order.relearnsolution.co.th"
+    "homeUrl": "http://localhost:3000"
   },
   "system": {
     "extensions": [
@@ -12,7 +12,28 @@
         "name": "vendor",
         "resolve": "extensions/vendor",
         "enabled": true
+      },
+      {
+        "name": "mailgun",
+        "resolve": "extensions/mailgun",
+        "enabled": true,
+        "priority": 10
       }
-    ]
+    ],
+    "notification_emails": {
+      "from": "noreply@example.com",
+      "order_confirmation": {
+        "enabled": true,
+        "templatePath": null
+      },
+      "customer_welcome": {
+        "enabled": true,
+        "templatePath": null
+      },
+      "customer_password_reset": {
+        "enabled": true,
+        "templatePath": null
+      }
+    }
   }
 }

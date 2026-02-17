@@ -10,7 +10,10 @@
     "dev": "evershop dev"
   },
   "dependencies": {
-    "@evershop/evershop": "2.1.1"
+    "@evershop/evershop": "2.1.1",
+    "@evershop/sendgrid": "^2.1.1",
+    "form-data": "^4.0.5",
+    "mailgun.js": "^12.7.0"
   },
   "devDependencies": {
     "@parcel/watcher": "2.5.6",
