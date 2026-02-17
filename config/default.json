@@ -5,5 +5,14 @@
     "currency": "THB",
     "weightUnit": "kg",
     "homeUrl": "https://order.relearnsolution.co.th"
+  },
+  "system": {
+    "extensions": [
+      {
+        "name": "vendor",
+        "resolve": "extensions/vendor",
+        "enabled": true
+      }
+    ]
   }
 }
