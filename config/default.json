@@ -4,15 +4,6 @@
     "timezone": "Asia/Bangkok",
     "currency": "THB",
     "weightUnit": "kg",
-    "homeUrl": "http://localhost:3000"
-  },
-  "system": {
-        "extensions": [
-            {
-                "name": "vendor",
-                "resolve": "extensions/vendor",
-                "enabled": true
-            }
-        ]
-    }
+    "homeUrl": "https://order.relearnsolution.co.th"
+  }
 }
