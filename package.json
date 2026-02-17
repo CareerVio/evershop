@@ -7,8 +7,13 @@
     "setup": "evershop install",
     "start": "evershop start",
     "build": "evershop build",
-    "dev": "evershop dev"
+    "dev": "evershop dev",
+    "theme:active": "evershop theme:active",
+    "extension:create": "evershop extension:create"
   },
+  "workspaces": [
+    "extensions/*"
+  ],
   "dependencies": {
     "@evershop/evershop": "2.1.1"
   },
