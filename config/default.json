@@ -21,7 +21,7 @@
       }
     ],
     "notification_emails": {
-      "from": "noreply@example.com",
+      "from": "noreply@relearnsolution.co.th",
       "order_confirmation": {
         "enabled": true,
         "templatePath": null
