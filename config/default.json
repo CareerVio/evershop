@@ -6,6 +6,15 @@
     "weightUnit": "kg",
     "homeUrl": "https://order.relearnsolution.co.th"
   },
+  "themeConfig": {
+    "logo": {
+      "alt": "My Shop Logo",
+      "src": "logo.svg",
+      "width": 100,
+      "height": 50
+    },
+    "copyRight": "© 2026 Relearn Solution. All Rights Reserved."
+  },
   "system": {
     "extensions": [
       {
